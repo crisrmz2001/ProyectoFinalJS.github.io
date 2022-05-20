@@ -1,0 +1,92 @@
+[
+  {
+    "precio": 5999,
+    "id": 1,
+    "titulo": "Memoria GeiL DDR4 8GB 3000MHz EVO POTENZA RED",
+    "img": "./multimedia/memoria.jpg"
+  },
+  {
+    "precio": 5770,
+    "id": 2,
+    "titulo": "Intel Core i7 10700K 5.1GHz",
+    "img": "./multimedia/procesador.jpg"
+  },
+  {
+    "precio": 56000,
+    "id": 3,
+    "titulo": "Radeon RX 6500 XT Black 4GB GDDR6",
+    "img": "./multimedia/gpu.jpg"
+  },
+  {
+    "precio": 5320,
+    "id": 4,
+    "titulo": "Kolink Inspire K5 RGB ATX",
+    "img": "./multimedia/gabinete.jpg"
+  },
+  {
+    "precio": 39500,
+    "id": 5,
+    "titulo": "ASUS ROG STRIX 850G 80 Plus Gold 850W",
+    "img": "./multimedia/fuente.jpg"
+  },
+  {
+    "precio": 7500,
+    "id": 6,
+    "titulo": "SSD M.2 ADATA 256GB XPG S11 Pro 3D NAND 3500MB/s NVME PCI-E X4",
+    "img": "./multimedia/solido.jpg"
+  },
+  {
+    "precio": 41370,
+    "id": 7,
+    "titulo": "Monitor Gamer Samsung 24 G50 Curvo 144Hz Full HD",
+    "img": "./multimedia/monitor1.jpg"
+  },
+  {
+    "precio": 42690,
+    "id": 8,
+    "titulo": "Monitor LG 27 N 75Hz AMD FreeSync Full HD 27MK400H-B",
+    "img": "./multimedia/monitor2.jpg"
+  },
+  {
+    "precio": 43000,
+    "id": 9,
+    "titulo": "Monitor Samsung 27 Curvo LC27F390FHLX ",
+    "img": "./multimedia/monitor3.jpg"
+  },
+  {
+    "precio": 36500,
+    "id": 10,
+    "titulo": "Mother ASUS ROG STRIX B550-F GAMING WI-FI AM4 PCI-E 4.0",
+    "img": "./multimedia/mother.jpg"
+  },
+  {
+    "precio": 41180,
+    "id": 11,
+    "titulo": "Auriculares Inalambricos ASUS ROG Strix GO 2.4",
+    "img": "./multimedia/auriculares.jpg"
+  },
+  {
+    "precio": 15000,
+    "id": 12,
+    "titulo": "Combo hyperx Teclado + Mouse",
+    "img": "./multimedia/combo.jpg"
+  },
+  {
+    "precio": 7380,
+    "id": 13,
+    "titulo": "Router TP-Link C7 AC1750 Dual Band Gigabit",
+    "img": "./multimedia/modem.jpg"
+  },
+  {
+    "precio": 9500,
+    "id": 14,
+    "titulo": "WebCam Logitech C920S PRO Full HD",
+    "img": "./multimedia/cam.jpg"
+  },
+  {
+    "precio": 13000,
+    "id": 15,
+    "titulo": "Gamepad Microsoft XBOX Inalambrico Carbon Black Bluetooth Sin receptor",
+    "img": "./multimedia/joystick.jpg"
+  }
+]
